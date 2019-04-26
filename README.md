@@ -1,1 +1,9 @@
 # payment-integrate
+A DONATION WEBSITE IS INTEGRATED WITH PAYMENT GATEWAY.
+
+
+IT IS DONE USING INSTAMOJO IN TEST MODE WITH THE CREDENTIALS OF CARD
+
+                               CARD NUMBER- 4242 4242 4242 4242
+                               EXPIRY-01/20 CVV-111
+                               PASSWORD-1221
